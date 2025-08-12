@@ -109,11 +109,10 @@ Para contribuir al proyecto:
 
 Este proyecto está bajo la licencia MIT. Ver archivo LICENSE para más detalles.
 
-## 👥 Autores
+## 👥 Autora
 
 - **Paula Andrea Acuña Merlano**
-- **Proyecto Fénix Boyacá**
-- **Cohorte 6 - Talento Tech 2025 (MinTIC)**
+**Cohorte 6 - Talento Tech 2025 (MinTIC)**
 
 ## 📞 Contacto
 
