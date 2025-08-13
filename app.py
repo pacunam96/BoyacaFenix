@@ -646,16 +646,7 @@ def render_dashboard_page():
     # Renderizar mapa
     render_heatmap(df_filtrado)
     
-    # Gráficos en cuadrícula 2x2
-    st.markdown("---")
-    st.markdown("""
-    <div style="background: linear-gradient(135deg, #FF6B35 0%, #FF8C00 100%); padding: 15px; border-radius: 10px; margin: 20px 0;">
-        <h3 style="color: white; text-align: center; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-            📊 Análisis de Datos - Cuadrícula de Visualizaciones
-        </h3>
-    </div>
-    """, unsafe_allow_html=True)
-    
+
     # Cuadrícula 2x2 para los gráficos
     col1, col2 = st.columns(2)
     
